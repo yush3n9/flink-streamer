@@ -1,0 +1,45 @@
+# eclipse ide
+.project
+/.project
+.tern-project
+/.tern-project
+.settings
+/.settings
+.classpath
+/.classpath
+.idea
+
+# netbeans ide
+nb-configuration.xml
+nbactions.xml
+
+# jrebel
+rebel.xml
+rebel-remote.xml
+
+# intermediates
+.buildpath
+/.buildpath
+target
+/target
+*.jasper
+*.iml
+obj
+out
+.forge_settings
+/.forge_settings
+release.properties
+/release.properties
+
+# visual studio ide
+Release
+Debug
+*.suo
+*.pdb
+*.csproj.user
+
+# other stuff
+*.gitignore
+!/.gitignore
+log.txt
+Thumbs.db
